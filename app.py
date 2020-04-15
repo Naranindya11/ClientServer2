@@ -3,7 +3,7 @@ from flask_marshmallow import Marshmallow
 from flask_migrate import Migrate
 from flask_sqlalchemy import SQLAlchemy
 
-#Zulfa Rohmawati Mayasari nim : 18090053
+#NARA ANINDYA GUNA 18090128
 
 app = Flask(__name__)
 api = Api(app)
